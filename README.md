@@ -1,0 +1,2 @@
+# Research-Paper
+Prediction of cardiovascular diseases is tricky, it should be accurate. There is no space for error be it human or machine error. Many intelligent automated decision support system has been implement to tackle the problem. Most of them are based on contemporary machine learning techniques which provide below average performances. Which is not  too tolerable in the field of medical where it can be a matter of life and death. Thus better solution approaches are need of the hour. 
